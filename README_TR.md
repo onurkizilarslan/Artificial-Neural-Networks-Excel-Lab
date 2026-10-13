@@ -21,7 +21,13 @@ Excel dosyasını indirip Microsoft Excel'de açın. Düzenlenebilir parametrele
 ADALINE doğrusal çıktı hatası üzerinden online LMS uygular. Perceptron yanlış sınıflandırılan örneklerde ağırlık günceller. MSE ve yanlış sınıflandırma sayıları doğrudan eşdeğer performans ölçütleri değildir.
 
 ## Lisans
-Henüz lisans belirlenmedi. Otomatik yeniden kullanım veya dağıtım izni bulunmamaktadır.
+© 2026 Onur Kızılarslan. Aksi belirtilmedikçe Excel eğitim materyalleri ve proje dokümantasyonu **Creative Commons Atıf-GayriTicari 4.0 Uluslararası (CC BY-NC 4.0)** lisansıyla sunulmaktadır.
+
+- **İzin verilen:** uygun atıf, lisans bağlantısı ve değişiklik bildirimiyle ticari olmayan amaçlarla kopyalama, paylaşma ve uyarlama.
+- **Bu lisansla izin verilmeyen:** ticari kullanım. Ticari kullanım için hak sahibinden ayrıca izin alınmalıdır.
+- **Örnek atıf:** Onur Kızılarslan, *Yapay Sinir Ağları – Excel Öğrenme Laboratuvarı*, [GitHub deposu](https://github.com/onurkizilarslan/Artificial-Neural-Networks-Excel-Lab), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Yapılan değişiklikleri belirtin.
+
+Geçerli hukuki koşullar için [LICENSE.md](LICENSE.md) ve [resmî lisans metni](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en) incelenmelidir.
 
 ## Durum
 Dokümantasyon ve altı Excel çalışma kitabı yayımlanmıştır.
