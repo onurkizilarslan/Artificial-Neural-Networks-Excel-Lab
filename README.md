@@ -23,7 +23,13 @@ Download a workbook and open it in Microsoft Excel. Change editable parameters a
 - Online mean squared error and classification mistake counts measure different objectives and should not be directly compared as equal scales.
 
 ## License
-A license has not yet been chosen. The contents are not automatically licensed for reuse or redistribution.
+© 2026 Onur Kızılarslan. Unless otherwise noted, the Excel educational materials and project documentation are licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+- **Permitted:** copying, sharing, and adapting for noncommercial purposes with appropriate credit, the license link, and an indication of modifications.
+- **Not granted:** permission for commercial use. Please request separate authorization from the rights holder for commercial uses.
+- **Attribution example:** Onur Kızılarslan, *Artificial Neural Networks – Excel Learning Lab*, [GitHub repository](https://github.com/onurkizilarslan/Artificial-Neural-Networks-Excel-Lab), [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Note any changes.
+
+Read [LICENSE.md](LICENSE.md) and the [official legal code](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en) for the governing conditions.
 
 ## Status
 Documentation and all six workbooks are available.
